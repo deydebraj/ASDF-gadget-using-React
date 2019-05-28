@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/deydebraj/ASDF-gadget-using-React/static/css/main.b96fe579.chunk.css",
-    "main.js": "/deydebraj/ASDF-gadget-using-React/static/js/main.9b79f325.chunk.js",
-    "main.js.map": "/deydebraj/ASDF-gadget-using-React/static/js/main.9b79f325.chunk.js.map",
-    "runtime~main.js": "/deydebraj/ASDF-gadget-using-React/static/js/runtime~main.6d13c85a.js",
-    "runtime~main.js.map": "/deydebraj/ASDF-gadget-using-React/static/js/runtime~main.6d13c85a.js.map",
-    "static/js/2.cf0d62a8.chunk.js": "/deydebraj/ASDF-gadget-using-React/static/js/2.cf0d62a8.chunk.js",
-    "static/js/2.cf0d62a8.chunk.js.map": "/deydebraj/ASDF-gadget-using-React/static/js/2.cf0d62a8.chunk.js.map",
-    "index.html": "/deydebraj/ASDF-gadget-using-React/index.html",
-    "precache-manifest.594a92ede4df30a834734fc90c26eb87.js": "/deydebraj/ASDF-gadget-using-React/precache-manifest.594a92ede4df30a834734fc90c26eb87.js",
-    "service-worker.js": "/deydebraj/ASDF-gadget-using-React/service-worker.js",
-    "static/css/main.b96fe579.chunk.css.map": "/deydebraj/ASDF-gadget-using-React/static/css/main.b96fe579.chunk.css.map"
+    "main.css": "/ASDF-gadget-using-React/static/css/main.b96fe579.chunk.css",
+    "main.js": "/ASDF-gadget-using-React/static/js/main.9b81a450.chunk.js",
+    "main.js.map": "/ASDF-gadget-using-React/static/js/main.9b81a450.chunk.js.map",
+    "runtime~main.js": "/ASDF-gadget-using-React/static/js/runtime~main.a222d430.js",
+    "runtime~main.js.map": "/ASDF-gadget-using-React/static/js/runtime~main.a222d430.js.map",
+    "static/js/2.cf0d62a8.chunk.js": "/ASDF-gadget-using-React/static/js/2.cf0d62a8.chunk.js",
+    "static/js/2.cf0d62a8.chunk.js.map": "/ASDF-gadget-using-React/static/js/2.cf0d62a8.chunk.js.map",
+    "index.html": "/ASDF-gadget-using-React/index.html",
+    "precache-manifest.d1fae8544ada800c799aeb27ced2094e.js": "/ASDF-gadget-using-React/precache-manifest.d1fae8544ada800c799aeb27ced2094e.js",
+    "service-worker.js": "/ASDF-gadget-using-React/service-worker.js",
+    "static/css/main.b96fe579.chunk.css.map": "/ASDF-gadget-using-React/static/css/main.b96fe579.chunk.css.map"
   }
 }
